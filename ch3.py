@@ -1,3 +1,6 @@
+# this is a screen dump from an interactive python session
+# it has the infamous wizard list
+
 Python 3.4.1 (default, Jul 26 2014, 13:46:45) 
 [GCC 4.9.1] on linux
 Type "copyright", "credits" or "license()" for more information.
